@@ -1,0 +1,16 @@
+# Python 编译产生的缓存
+__pycache__/
+*.py[cod]
+
+# PyInstaller 打包产生的临时文件夹 (不要上传这些)
+build/
+dist/
+*.spec
+
+# 虚拟环境 (如果有)
+venv/
+.env
+
+# 编辑器配置 (可选)
+.vscode/
+.idea/
